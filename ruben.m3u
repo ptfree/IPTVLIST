@@ -1,0 +1,557 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/1.ts
+#EXTINF:-1,RTP 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/2.ts
+#EXTINF:-1,SIC
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/3.ts
+#EXTINF:-1,TVI
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/4.ts
+#EXTINF:-1,A QUINTA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/108.ts
+#EXTINF:-1,QUINTA 4 CAMERAS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/155.ts
+#EXTINF:-1,CAMERA EXCLUSIVA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/329.ts
+#EXTINF:-1,TVI 24
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/5.ts
+#EXTINF:-1,CM TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/8.ts
+#EXTINF:-1,SIC NOTICIAS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/11.ts
+#EXTINF:-1,TVI FICCAO
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/7.ts
+#EXTINF:-1,SIC MULHER
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/12.ts
+#EXTINF:-1,SIC CARAS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/13.ts
+#EXTINF:-1,SIC RADICAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/14.ts
+#EXTINF:-1,PORTO CANAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/9.ts
+#EXTINF:-1,ABOLA TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/10.ts
+#EXTINF:-1,RTP 3
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/15.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/16.ts
+#EXTINF:-1,RTP ACORES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/18.ts
+#EXTINF:-1,RTP MADEIRA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/19.ts
+#EXTINF:-1,RTP AFRICA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/20.ts
+#EXTINF:-1,RTP MEMORIA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/17.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/31.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/32.ts
+#EXTINF:-1,CANAL HISTORIA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/33.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/34.ts
+#EXTINF:-1,NAT GEO WILD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/35.ts
+#EXTINF:-1,ODISSEIA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/36.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/162.ts
+#EXTINF:-1,24 KITCHEN HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/21.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/157.ts
+#EXTINF:-1,CACA E PESCA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/37.ts
+#EXTINF:-1,CACAVISION
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/330.ts
+#EXTINF:-1,TV RECORD PORTUGAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/24.ts
+#EXTINF:-1,RECORD US
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/460.ts
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/25.ts
+#EXTINF:-1,GLOBO US HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/461.ts
+#EXTINF:-1,GLOBO BRASIL HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/109.ts
+#EXTINF:-1,GLOBO PREMIUM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/26.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/28.ts
+#EXTINF:-1,TLC
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/153.ts
+#EXTINF:-1,CANAL Q
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/23.ts
+#EXTINF:-1,ETV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/22.ts
+#EXTINF:-1,TOROS TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/27.ts
+#EXTINF:-1,MTV PORTUGAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/29.ts
+#EXTINF:-1,VH1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/331.ts
+#EXTINF:-1,C- MUSIC
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/30.ts
+#EXTINF:-1,MCM POP
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/96.ts
+#EXTINF:-1,DISNEY
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/38.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/39.ts
+#EXTINF:-1,PANDA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/40.ts
+#EXTINF:-1,NICKELODEON
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/43.ts
+#EXTINF:-1,PANDA BIGGS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/41.ts
+#EXTINF:-1,CARTOON NETWORK
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/42.ts
+#EXTINF:-1,SIC K
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/45.ts
+#EXTINF:-1,JIM JAM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/44.ts
+#EXTINF:-1,BABY TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/46.ts
+#EXTINF:-1,TVCINE 1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/47.ts
+#EXTINF:-1,TVCINE 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/48.ts
+#EXTINF:-1,TVCINE 3
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/49.ts
+#EXTINF:-1,TVCINE 4
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/50.ts
+#EXTINF:-1,TV SERIES HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/52.ts
+#EXTINF:-1,HOLLYWOOD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/53.ts
+#EXTINF:-1,HOLLYWOD HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/163.ts
+#EXTINF:-1,CINEMUNDO
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/54.ts
+#EXTINF:-1,MOV HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/56.ts
+#EXTINF:-1,SYFY
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/57.ts
+#EXTINF:-1,AXN HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/58.ts
+#EXTINF:-1,AXN WHITE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/60.ts
+#EXTINF:-1,AXN BLACK HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/61.ts
+#EXTINF:-1,FOX HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/64.ts
+#EXTINF:-1,FOX COMEDY
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/62.ts
+#EXTINF:-1,FOX MOVIES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/65.ts
+#EXTINF:-1,FOX LIFE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/67.ts
+#EXTINF:-1,FOX CRIME HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/69.ts
+#EXTINF:-1,AMC
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/70.ts
+#EXTINF:-1,SPORT TV 1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/71.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/72.ts
+#EXTINF:-1,SPORT TV 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/73.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/74.ts
+#EXTINF:-1,SPORT TV 3
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/75.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/158.ts
+#EXTINF:-1,SPORT TV 4
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/76.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/77.ts
+#EXTINF:-1,SPORT TV 5
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/78.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/159.ts
+#EXTINF:-1,BENFICA TV 1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/79.ts
+#EXTINF:-1,BENFICA TV 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/80.ts
+#EXTINF:-1,BENFICA TV 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/95.ts
+#EXTINF:-1,BENFICA TV 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/156.ts
+#EXTINF:-1,SPORTING TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/81.ts
+#EXTINF:-1,SPORTING TV HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/160.ts
+#EXTINF:-1,PFC
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/82.ts
+#EXTINF:-1,MOTORVISION
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/84.ts
+#EXTINF:-1,MOTORS TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/161.ts
+#EXTINF:-1,EUROSPORT
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/86.ts
+#EXTINF:-1,EUROSPORT 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/87.ts
+#EXTINF:-1,FUEL TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/337.ts
+#EXTINF:-1,TVE 24 HORAS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/336.ts
+#EXTINF:-1,FOX NEWS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/334.ts
+#EXTINF:-1,CNN
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/333.ts
+#EXTINF:-1,TV GALICIA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/335.ts
+#EXTINF:-1,CANÇAO NOVA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/332.ts
+#EXTINF:-1,XXX  PLAYBOY  XXX
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/92.ts
+#EXTINF:-1,XXX  VENUS XXX
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/93.ts
+#EXTINF:-1,XXX  HOT  XXX
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/94.ts
+#EXTINF:-1,CANAL+ HD Fr
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/458.ts
+#EXTINF:-1,TF1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/130.ts
+#EXTINF:-1,FRANCE 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/135.ts
+#EXTINF:-1,FRANCE 3 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/131.ts
+#EXTINF:-1,FRANCE 4 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/134.ts
+#EXTINF:-1,FRANCE 5 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/133.ts
+#EXTINF:-1,L'EQUIPE 21 TV
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/439.ts
+#EXTINF:-1,FRANCE A
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/444.ts
+#EXTINF:-1,PARIS PREMIERE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/432.ts
+#EXTINF:-1,WEO
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/434.ts
+#EXTINF:-1,TEVA HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/426.ts
+#EXTINF:-1,OL TV HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/433.ts
+#EXTINF:-1,MCM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/446.ts
+#EXTINF:-1,COMEDIE+ HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/449.ts
+#EXTINF:-1,CINE+ PREMIER HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/454.ts
+#EXTINF:-1,CINE+ FRISSON HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/450.ts
+#EXTINF:-1,CINE+ FAMIZ HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/451.ts
+#EXTINF:-1,CINE+ EMOTION HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/455.ts
+#EXTINF:-1,CINE+ CLASSIC HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/456.ts
+#EXTINF:-1,CINE POLAR HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/452.ts
+#EXTINF:-1,CINE FX HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/453.ts
+#EXTINF:-1,SERIES HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/140.ts
+#EXTINF:-1,FAMILY HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/137.ts
+#EXTINF:-1,CINEMA HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/138.ts
+#EXTINF:-1,PLANETE+ THALASSA HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/429.ts
+#EXTINF:-1,PLANETE+ HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/431.ts
+#EXTINF:-1,PLANETE+ CI HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/430.ts
+#EXTINF:-1,NATIONAL GEO CHANNEL HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/436.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/437.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/448.ts
+#EXTINF:-1,RMC DECOUVERTE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/428.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/447.ts
+#EXTINF:-1,NICKELODEON HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/435.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/457.ts
+#EXTINF:-1,TELETOON+ 1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/427.ts
+#EXTINF:-1,JUNE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/441.ts
+#EXTINF:-1,iTELE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/442.ts
+#EXTINF:-1,E ! ENTERTAINMENT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/132.ts
+#EXTINF:-1,ARTE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/143.ts
+#EXTINF:-1,M6 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/142.ts
+#EXTINF:-1,CANAL DECALE HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/136.ts
+#EXTINF:-1,SPORT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/141.ts
+#EXTINF:-1,MA CHAINE SPORT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/438.ts
+#EXTINF:-1,KOMBAT SPORT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/440.ts
+#EXTINF:-1,INFOSPORT+
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/443.ts
+#EXTINF:-1,FOOT+ 24/24
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/459.ts
+#EXTINF:-1,EUROSPORT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/445.ts
+#EXTINF:-1,LA 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/166.ts
+#EXTINF:-1,LA 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/167.ts
+#EXTINF:-1,ANTENA 3 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/168.ts
+#EXTINF:-1,CUATRO
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/169.ts
+#EXTINF:-1,C SERIES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/170.ts
+#EXTINF:-1,LA SEXTA HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/171.ts
+#EXTINF:-1,A&E
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/173.ts
+#EXTINF:-1,C  ACCION
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/174.ts
+#EXTINF:-1,TELECINCO ES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/176.ts
+#EXTINF:-1,SYFY HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/183.ts
+#EXTINF:-1,FOX  ES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/185.ts
+#EXTINF:-1,fOX LIFE ES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/184.ts
+#EXTINF:-1,CANAL+ DCINE ESPANOL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/175.ts
+#EXTINF:-1,C  DCINE
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/177.ts
+#EXTINF:-1,Canal+ HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/172.ts
+#EXTINF:-1,CANAL+ LIGA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/182.ts
+#EXTINF:-1,CANAL+  ESTRENOS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/180.ts
+#EXTINF:-1,CANAL+ FUTBOL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/179.ts
+#EXTINF:-1,CANAL+ DESPORTES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/181.ts
+#EXTINF:-1,REAL MADRID TV ES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/178.ts
+#EXTINF:-1,NAT GEOGRAPH
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/340.ts
+#EXTINF:-1,NAT GEO WILD ES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/339.ts
+#EXTINF:-1,CANAL ODISEA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/338.ts
+#EXTINF:-1,AXN ES
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/341.ts
+#EXTINF:-1,RAI 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/375.ts
+#EXTINF:-1,RAI 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/376.ts
+#EXTINF:-1,RAI 3 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/377.ts
+#EXTINF:-1,RAI 4 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/378.ts
+#EXTINF:-1,RAI 5 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/379.ts
+#EXTINF:-1,RAI SPORT 1
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/401.ts
+#EXTINF:-1,RAI SPORT 2
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/402.ts
+#EXTINF:-1,RAI PREMIUM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/404.ts
+#EXTINF:-1,RAI MOVIE
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/403.ts
+#EXTINF:-1,RSI LA 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/423.ts
+#EXTINF:-1,RSI LA 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/424.ts
+#EXTINF:-1,RAI GULP
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/425.ts
+#EXTINF:-1,SKY CALCIO 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/395.ts
+#EXTINF:-1,SKY CALCIO 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/396.ts
+#EXTINF:-1,SKY CALCIO 3 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/397.ts
+#EXTINF:-1,SKY CALCIO 4 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/398.ts
+#EXTINF:-1,SKY CALCIO 5 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/399.ts
+#EXTINF:-1,SKY CALCIO 6 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/400.ts
+#EXTINF:-1,SKY SUPERCALCIO HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/394.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/388.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/389.ts
+#EXTINF:-1,SKY SPORT 3 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/390.ts
+#EXTINF:-1,SKY SPORT 24 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/391.ts
+#EXTINF:-1,SKY SPORT F1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/393.ts
+#EXTINF:-1,SKY MOTO GP
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/392.ts
+#EXTINF:-1,SKY CINEMA 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/380.ts
+#EXTINF:-1,SKY CINEMA 24
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/382.ts
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/387.ts
+#EXTINF:-1,SKY CINEMA MAX HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/386.ts
+#EXTINF:-1,SKY CINEMA HITS
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/381.ts
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/383.ts
+#EXTINF:-1,SKY CINEMA CULT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/385.ts
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/384.ts
+#EXTINF:-1,PREMIUM CALCIO HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/415.ts
+#EXTINF:-1,PREMIUM CALCIO 1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/416.ts
+#EXTINF:-1,PREMIUM CALCIO 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/417.ts
+#EXTINF:-1,PREMIUM SPORT HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/405.ts
+#EXTINF:-1,PREMIUM EUROSPORT1 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/421.ts
+#EXTINF:-1,PREMIUM EUROSPORT2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/422.ts
+#EXTINF:-1,PREMIUM  CRIME HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/409.ts
+#EXTINF:-1,PREMIUM ACTION HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/418.ts
+#EXTINF:-1,PREMIUM CINEMA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/413.ts
+#EXTINF:-1,PREMIUM CINEMA 2 HD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/412.ts
+#EXTINF:-1,PREMIUM COMEDY
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/410.ts
+#EXTINF:-1,PREMIUM CINEMA PLUS 24
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/411.ts
+#EXTINF:-1,PREMIUM DISCOVERY WORLD
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/408.ts
+#EXTINF:-1,PREMIUM DISNEY JUNIOR
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/407.ts
+#EXTINF:-1,PREMIUM  DISNEY CHANNEL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/406.ts
+#EXTINF:-1,PREMIUM CARTON NETWORK
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/414.ts
+#EXTINF:-1,FOX HD  IT
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/419.ts
+#EXTINF:-1,FOX CRIME HD IT
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/420.ts
+#EXTINF:-1,RFM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/100.ts
+#EXTINF:-1,RENASCENÇA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/99.ts
+#EXTINF:-1,RADIO TOP
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/101.ts
+#EXTINF:-1,MEGA FM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/98.ts
+#EXTINF:-1,IBIZA SONICA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/106.ts
+#EXTINF:-1,COMERCIAL
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/107.ts
+#EXTINF:-1,CIDADE FM
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/97.ts
+#EXTINF:-1,AMÁLIA
+http://ruben-mota.mine.nu:9511/live/USA2/USA2/102.ts
+#EXTINF:-1,RONALDO
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/118.mp4
+#EXTINF:-1,TED 2
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/125.mkv
+#EXTINF:-1,Pay the Ghost
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/126.mkv
+#EXTINF:-1,Foxcatcher
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/127.mkv
+#EXTINF:-1,Wrecker (2015)
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/124.mkv
+#EXTINF:-1,Disturbia 2007
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/119.mp4
+#EXTINF:-1,The Transporter Refueled 2015
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/123.mp4
+#EXTINF:-1,The Darjeeling Limited 2007
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/122.mp4
+#EXTINF:-1,Selma
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/128.mp4
+#EXTINF:-1,Paul Blart Mall Cop 2
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/145.mp4
+#EXTINF:-1,The Longest Ride
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/148.mp4
+#EXTINF:-1,Fast and Furious 7
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/147.mp4
+#EXTINF:-1,4Got10 2015
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/149.mp4
+#EXTINF:-1,What You Wish For
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/150.mp4
+#EXTINF:-1,OS CARICAS
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/154.mp4
+#EXTINF:-1,007 CASINO ROYALE
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/343.mp4
+#EXTINF:-1,007 Quantum Of Solace
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/344.mp4
+#EXTINF:-1,La Cage Doree
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/345.mp4
+#EXTINF:-1,Madagascar-Escape 2 Africa
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/347.mp4
+#EXTINF:-1,Rocky Balboa
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/349.mp4
+#EXTINF:-1,Salt
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/350.mp4
+#EXTINF:-1,Gangster Squad
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/351.mp4
+#EXTINF:-1,The November Man
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/352.mp4
+#EXTINF:-1,Toy Story 1
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/359.mp4
+#EXTINF:-1,Shrek Assustando
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/358.mp4
+#EXTINF:-1,Os Três Porquinhos
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/355.mp4
+#EXTINF:-1,O que Será de Nozes
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/353.mp4
+#EXTINF:-1,CARROS 2 - Relâmpago
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/354.mp4
+#EXTINF:-1,Caillou
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/357.mp4
+#EXTINF:-1,Barbie
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/356.mkv
+#EXTINF:-1,Remember
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/360.mp4
+#EXTINF:-1,The Revenant
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/362.mp4
+#EXTINF:-1,Noddy - A Ilha da Aventura
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/363.mp4
+#EXTINF:-1,RUCA SEMPRE A BRINCAR
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/364.mp4
+#EXTINF:-1,Par Accident
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/365.mp4
+#EXTINF:-1,Hot Tub Time Machine.2
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/366.mp4
+#EXTINF:-1,Magic Mike XXL
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/368.mkv
+#EXTINF:-1,Maggie
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/367.mp4
+#EXTINF:-1,Insidious Chapter 3
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/369.mp4
+#EXTINF:-1,The DUFF
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/371.mp4
+#EXTINF:-1,The D Train
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/370.mp4
+#EXTINF:-1,Survivor
+http://ruben-mota.mine.nu:9511/movie/USA2/USA2/372.mp4
